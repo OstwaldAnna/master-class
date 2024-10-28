@@ -13,26 +13,9 @@ body {
     margin-top: 40px;
 }
 
-.search {
-    width: 427px;
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-    background-color: #2f2b4310;
-    border: 1px solid #cccccc00;
-}
-
-.search input {
-    border: none;
-    font-size: 16px;
-    background-color: transparent;
-    outline: none;
-}
-
 .ask-question {
     display: flex;
     align-items: center;
-    padding: 10px 20px;
     background-color: #33836E;
     color: white;
     border: none;
@@ -74,11 +57,6 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 106px;
-}
-
-.work {
-    gap: 30px;
-    margin-top: 40px;
 }
 
 .info {
