@@ -1,0 +1,103 @@
+body {
+    width: 1200px;
+    margin: auto;
+    line-height: 25px;
+    padding: 10px 20px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.search {
+    width: 427px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #2f2b4310;
+    border: 1px solid #cccccc00;
+}
+
+.search input {
+    border: none;
+    font-size: 16px;
+    background-color: transparent;
+    outline: none;
+}
+
+.ask-question {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #33836E;
+    color: white;
+    border: none;
+    gap: 5px;
+    border-radius: 10px;
+}
+
+.phone-number {
+    font-size: 18px;
+    font-weight: bold;
+    display: block;
+}
+
+.navigation {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    gap: 30px;
+}
+
+.hotline h1 {
+    line-height: 41px;
+}
+
+.auth {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.auth button {
+    background-color: transparent;
+    border: none;
+}
+
+.onas {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 106px;
+}
+
+.work {
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.info {
+    display: flex;
+    margin-top: 30px;
+    gap: 30px;
+}
+
+.phone-bold {
+    color: #33836E;
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: underline;
+    display: block;
+}
+
+.work {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
